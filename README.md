@@ -23,13 +23,13 @@ I am passionate about building technology that connects, entertains, and educate
 - Built a native iOS app in SwiftUI handling multi-digit logic input and complex chained operations.
 - Implemented state flags to manage application control flow between operand and operator entries.
 - Tech Stack: Swift, SwiftUI
-- Code Repo: [AngelaLiu07/SwiftUI-Calculator]([https://github.com/AngelaLiu07/SwiftUI-Calculator](url))
+- Code Repo: [AngelaLiu07/SwiftUI-Calculator]([https://github.com/AngelaLiu07/SwiftUI-Calculator])
 
 ### 🛡️ Cybersecurity Educational Web App (CSPSC Hackathon)
 - Architected an interactive educational website using Bootstrap to simplify cybersecurity concepts and raise digital safety awareness for senior citizens.
 - Designed quizzes, visual aids, and actionable guidelines to prevent online fraud and phishing.
 - Tech Stack: JavaScript, HTML/CSS, Bootstrap
-- Code Repo: [AngelaLiu07/cybersecurity_application]([https://github.com/AngelaLiu07/cybersecurity_application](url))
+- Code Repo: [AngelaLiu07/cybersecurity_application]([https://github.com/AngelaLiu07/cybersecurity_application])
 
 
 🌱 What I'm Currently Learning:
@@ -38,8 +38,8 @@ I am passionate about building technology that connects, entertains, and educate
 
 
 📫 How to Reach Me:
-- LinkedIn: [linkedin.com/in/angela-liu-cs]([https://www.linkedin.com/in/angela-liu-cs/](url))
-- GitHub: [github.com/AngelaLiu07]([https://github.com/AngelaLiu07](url))
+- LinkedIn: [linkedin.com/in/angela-liu-cs]([https://www.linkedin.com/in/angela-liu-cs/])
+- GitHub: [github.com/AngelaLiu07]([https://github.com/AngelaLiu07])
 
 
 
