@@ -40,6 +40,7 @@ I am passionate about building technology that connects, entertains, and educate
 📫 How to Reach Me:
 - LinkedIn: [Angela Liu](https://www.linkedin.com/in/angela-liu-cs/)
 - GitHub: [AngelaLiu07](https://github.com/AngelaLiu07)
+- Email: al2679@cornell.edu
 
 
 
