@@ -14,10 +14,10 @@ I am passionate about building technology that connects, entertains, and educate
 - Languages: Python, Java, Swift, JavaScript, HTML/CSS
 - Machine Learning & Data Science: Scikit-learn, Pandas, NumPy, Data Preprocessing & Feature Engineering
 - Mobile & Web Development: SwiftUI, Bootstrap
-- Tools & Environments: Git, GitHub, IntelliJ IDEA, Google Colab
+- Tools & Environments: Git, GitHub, IntelliJ
 
 
-🚀 Other Noteworthy Projects:
+🚀 Other Projects:
 
 ### 📱 iOS Calculator Application
 - Built a native iOS app in SwiftUI handling multi-digit logic input and complex chained operations.
